@@ -1,6 +1,6 @@
 # dsp-voice-gender-recognition
 
-##Introduction
+## Introduction
 Gender recognition from voice signals is an important problem in digital signal processing. The difference in vocal characteristics between males and females can be exploited for gender identification. This project presents an algorithm for gender recognition based on the amplitude of each audio sample.
 
 ## Implementation
